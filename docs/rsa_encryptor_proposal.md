@@ -35,7 +35,7 @@ Data:   N[6:0]   N[13:7]   N[20:14]  N[27:21]   e[6:0]   e[13:7]    m[6:0]   m[1
 
 After loading complete: Keep `LOAD` low, pulse `START`, and wait for `DONE`. Select/read both pages, then compute `c = low_page | (high_page << 14)`. Reset before the next transaction.
 
-![io_timing_diagram](C:\Users\yaron\OneDrive\WorkingOn\298A\io_timing_diagram.png)
+![io_timing_diagram](io_timing_diagram.png)
 
 ### 3.1 Instructions for use
 
