@@ -1,5 +1,13 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
+# Counter Screenshot
+
+<img width="2880" height="1847" alt="图片" src="https://github.com/user-attachments/assets/a1a7d6e0-db6a-4e23-89eb-fc2a338bfabd" />
+
+<img width="2880" height="1847" alt="图片" src="https://github.com/user-attachments/assets/1e534589-6ada-4dc4-8df6-1e76b817051b" />
+
+<img width="2880" height="1847" alt="图片" src="https://github.com/user-attachments/assets/d418db84-2ff4-426e-9d6b-3726d9cd704a" />
+
 # Tiny Tapeout Verilog Project Template
 
 - [Read the documentation for project](docs/info.md)
